@@ -3,9 +3,6 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7A800&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Luca+%F0%9F%91%8B;Full+Stack+Developer;Java+Backend+%7C+JS+Frontend;Always+learning+new+things!" alt="Typing SVG" />
 
-<!-- Snake animation (opcional - precisa configurar GitHub Actions) -->
-<!-- <img src="https://raw.githubusercontent.com/lucayof/lucayof/output/github-contribution-grid-snake-dark.svg" /> -->
-
 </div>
 
 ---
@@ -24,6 +21,10 @@ public class andersonLuca {
     }
 }
 ```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/lucayof/lucayof/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 ---
 
@@ -59,13 +60,6 @@ public class andersonLuca {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucayof&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucayof&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
