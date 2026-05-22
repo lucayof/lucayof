@@ -10,7 +10,7 @@
 ## 🧑‍💻 Sobre mim
 
 ```java
-public class ndersonLuca {
+public class sndersonLuca {
 
     String[] roles     = {"Full Stack Developer", "Java Back-End", "JS Front-End"};
     String   location  = "Brasil 🇧🇷";
