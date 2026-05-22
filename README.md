@@ -13,7 +13,7 @@
 ## 🧑‍💻 Sobre mim
 
 ```java
-public class Luca {
+public class andersonLuca {
 
     String[] roles     = {"Full Stack Developer", "Java Back-End", "JS Front-End"};
     String   location  = "Brasil 🇧🇷";
@@ -81,23 +81,14 @@ public class Luca {
 
 ---
 
-## 📌 Projetos em Destaque
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucayof&repo=barbearia-bootstrap&theme=radical&hide_border=true)](https://github.com/lucayof/barbearia-bootstrap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucayof&repo=Pet-Style&theme=radical&hide_border=true)](https://github.com/lucayof/Pet-Style)
-
-</div>
-
 ---
 
 ## 🌐 Onde me encontrar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ander-luca)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucayof)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucayof)
 
 </div>
@@ -107,6 +98,10 @@ public class Luca {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lucayof&color=F7A800&style=for-the-badge&label=VISITAS+AO+PERFIL)
+
+---
+
+> _"First, solve the problem. Then, write the code."_ — John Johnson
 
 ⭐ **Se curtiu algum projeto, deixa uma estrela!**
 
