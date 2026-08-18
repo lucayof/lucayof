@@ -67,14 +67,6 @@ public class andersonLuca {
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucayof&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ---
 
 ## 🌐 Onde me encontrar
@@ -100,4 +92,3 @@ public class andersonLuca {
 ⭐ **Se curtiu algum projeto, deixa uma estrela!**
 
 </div>
- 
